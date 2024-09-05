@@ -1,12 +1,5 @@
-## Hi there 👋
+## CablyAI
 
-<!--
+![CablyAI Banner](https://raw.githubusercontent.com/CablyAI/.github/main/images/github-banner.png)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a small team of developers with a passion for **artificial intelligence**. We love creating small projects like **CablyA**I. We want to make AI accessible to everyone by offering **free** access to a wide range of AI models. This way, anyone can use them in their own projects, no matter their experience level.
